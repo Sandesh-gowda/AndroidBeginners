@@ -408,3 +408,6 @@ Binding(COMMAND+SHIFT+F,
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2015-01-22 11:39:49.228
 !MESSAGE Failed to load properties file for project 'ProgramaticGridView'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-01-22 13:24:52.402
+!MESSAGE Failed to load properties file for project 'WebView'
