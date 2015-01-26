@@ -5,6 +5,7 @@ public class Applications {
 	private String name;
 	private String artist;
 	private String releaseDate;
+	
 	public String getName() {
 		return name;
 	}

@@ -1,0 +1,22 @@
+package dev.ash.youtubeplayer;
+
+import android.os.Bundle;
+
+import com.google.android.youtube.player.YouTubeBaseActivity;
+import com.google.android.youtube.player.YouTubePlayer;
+import com.google.android.youtube.player.YouTubePlayerView;
+
+public class YoutubeActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
+
+	public static final String GOOGLE_API_KEY = "AIzaSyAW_icQTkRB0ZQLAlZrclhfYJ4MQsnY6QQ";
+	public static final String YOUTUBE_VIDEO_ID = "cO7e0HOlgKQ";
+	
+	@Override
+	protected void onCreate(Bundle savedinstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedinstanceState);
+		setContentView(R.layout.youtube);
+		YouTubePlayerView YTPview = (YouTubePlayerView) findViewById(R.id.youtube_player);
+	}
+	
+}
