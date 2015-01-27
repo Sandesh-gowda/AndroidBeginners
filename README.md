@@ -1,4 +1,4 @@
-# AndroidBeginners
+# <h1>AndroidBeginners
 This Repository Includes Basic to intermediate and intermediate level to expert level android approaches.
 
 **Android Beginners**  
@@ -15,22 +15,37 @@ Using XML Pull parser and a native android network requests this application can
 **YOUTUBE API working with playlists**  
 Youtube has became a perfect media for people to learn and communicate and the way your application integrates videos from youtube api should be simpler and Playlists should be an essential part of your channel strategy. Not only do they increase watch-time, they create another asset that will appear in search results for your benifit. I have taken my time to write this cool playlist parsing android program in couple of lines so anybody can understand what code is conveying here.
 **HAPPY YOUTUBING YOURSELF**  
+
+**Fragments using XML**  
+Fragments are the best way to work with large devices and applications that has minimal UI frame that does some dynamic acticvity. Framents are totally similar to activities and fragments has its own lifecycle and fragment can be dynamic using java as well for approaching the dynamic application logics fragments plays a major role it is introduced in later honeycomb 3.0 android versions but can be programmed to prior verison of android devices reaching the version 1.6 . Learning working with fragments is a coolest of coolest thing to developer.  
+**HAPPY CODING** 
   
   **Upcoming programs**  
   Working with camera.  
   working with sensors.  
   working with networks.  
   requesting network API call and parsing Json data.
-  and much more interesting topics.
+  and much more interesting topics.  
 
+
+**Working with Youtube Api playlist**  
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Youtubeplaylist%20/playlistIndex%202%20.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Youtubeplaylist%20/playlist%20with%20button.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Youtubeplaylist%20/playlist.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Youtubeplaylist%20/Single%20Video.png)
 
+**working with fragments**
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/working%20with%20fragments/XML%20fragment.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/working%20with%20fragments/XML%20fragments.png)
+
+**Working with XML parsing (APPLE RSS XML FEED)**
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Apple top Apps Rss Reader.png)
+
+**Working with webview**
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/webview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/1webview.png)
+
+**Working with list and gridviews **
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Gridview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Listview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/programatic%20Grid%20view.png)
