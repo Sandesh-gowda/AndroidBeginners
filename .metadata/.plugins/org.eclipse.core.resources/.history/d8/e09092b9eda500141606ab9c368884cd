@@ -1,0 +1,7 @@
+package dev.ash.adtfragment;
+
+import android.app.Fragment;
+
+public class MyFragment extends Fragment {
+
+}
