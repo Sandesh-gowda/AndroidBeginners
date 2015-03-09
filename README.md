@@ -19,6 +19,13 @@ Youtube has became a perfect media for people to learn and communicate and the w
 **Fragments using XML**  
 Fragments are the best way to work with large devices and applications that has minimal UI frame that does some dynamic acticvity. Framents are totally similar to activities and fragments has its own lifecycle and fragment can be dynamic using java as well for approaching the dynamic application logics fragments plays a major role it is introduced in later honeycomb 3.0 android versions but can be programmed to prior verison of android devices reaching the version 1.6 . Learning working with fragments is a coolest of coolest thing to developer.  
 **HAPPY CODING** 
+
+ **MediaRecorder Class for audio recording**  
+  Android has a built in microphone through which you can capture audio and store it , or play it in your phone. There are many   ways to do that but the most common way is through MediaRecorder class. Android provides MediaRecorder class to record audio    or video. In order to use MediaRecorder class ,you will first create an instance of MediaRecorder class. Its syntax is given    below.  
+  **Syntax:** MediaRecorder myAudioRecorder = new MediaRecorder();    myAudioRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);   myAudioRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);   myAudioRecorder.setAudioEncoder(MediaRecorder.OutputFormat.AMR_NB); 
+  myAudioRecorder.setOutputFile(outputFile);
+  
+
   
   **Upcoming programs**  
   Working with camera.  
@@ -26,7 +33,8 @@ Fragments are the best way to work with large devices and applications that has 
   working with networks.  
   requesting network API call and parsing Json data.
   and much more interesting topics.  
-
+  
+ 
 
 **Working with Youtube Api playlist**  
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Youtubeplaylist%20/playlistIndex%202%20.png)
@@ -49,3 +57,10 @@ Fragments are the best way to work with large devices and applications that has 
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Gridview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/Listview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/programatic%20Grid%20view.png)
+
+**Working with MediaRecorder class for audio recording.**  
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/screen1.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/Screen2.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/screen3%20.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/screen4.png)
+
