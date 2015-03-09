@@ -26,7 +26,7 @@ Fragments are the best way to work with large devices and applications that has 
   myAudioRecorder.setOutputFile(outputFile);
   
   
-   **Understanding Bluetooth and its funstionalities**  
+   **Understanding Bluetooth and its functionalities**  
    Among many ways, Bluetooth is a way to send or recieve data between two different devices. Android platform includes support for the Bluetooth framework that allows a device to wirelessly exchange data with other Bluetooth devices.  
    Android provides Bluetooth API to perform these different operations.
 
