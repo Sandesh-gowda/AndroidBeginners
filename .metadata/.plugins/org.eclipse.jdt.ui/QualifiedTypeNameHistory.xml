@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="dev.ash.listview.MainActivity"/>
-<fullyQualifiedTypeName name="dev.ash.listview.R.id"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="dev.ash.gridview.R.id"/>
-<fullyQualifiedTypeName name="dev.ash.gridview.MainActivity"/>
-<fullyQualifiedTypeName name="android.widget.RelativeLayout"/>
-<fullyQualifiedTypeName name="dev.ash.programaticgridview.R.layout"/>
-<fullyQualifiedTypeName name="dev.ash.programaticgridview.R.id"/>
-<fullyQualifiedTypeName name="android.widget.GridView"/>
-<fullyQualifiedTypeName name="android.R"/>
-<fullyQualifiedTypeName name="android.R.layout"/>
 <fullyQualifiedTypeName name="android.graphics.Color"/>
-<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
 <fullyQualifiedTypeName name="dev.ash.programaticgridview.MainActivity"/>
 <fullyQualifiedTypeName name="android.webkit.WebView"/>
 <fullyQualifiedTypeName name="android.view.View"/>
@@ -25,7 +12,6 @@
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="dev.ash.rssfeeddownloader.MainActivity.DownloadData"/>
 <fullyQualifiedTypeName name="android.widget.ListView"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
@@ -57,4 +43,21 @@
 <fullyQualifiedTypeName name="dev.ash.youtubeplayer.R.id"/>
 <fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 <fullyQualifiedTypeName name="dev.ash.youtubeplayer.StandAloneActivity"/>
+<fullyQualifiedTypeName name="android.app.Fragment"/>
+<fullyQualifiedTypeName name="dev.ash.adtfragment.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.BaseAdapter"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.R"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
+<fullyQualifiedTypeName name="com.loopj.android.http.AsyncHttpResponseHandler"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.ui.CustomAdapter"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.MainActivity"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.model.movie"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.model.moviesReciever"/>
+<fullyQualifiedTypeName name="android.renderscript.Type"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.model.movieResponse"/>
 </qualifiedTypeNameHistroy>
