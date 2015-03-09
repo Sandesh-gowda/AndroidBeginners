@@ -25,6 +25,29 @@ Fragments are the best way to work with large devices and applications that has 
   **Syntax:** MediaRecorder myAudioRecorder = new MediaRecorder();    myAudioRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);   myAudioRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);   myAudioRecorder.setAudioEncoder(MediaRecorder.OutputFormat.AMR_NB); 
   myAudioRecorder.setOutputFile(outputFile);
   
+  
+   **Understanding Bluetooth and its funstionalities**  
+   Among many ways, Bluetooth is a way to send or recieve data between two different devices. Android platform includes support for the Bluetooth framework that allows a device to wirelessly exchange data with other Bluetooth devices.  
+   Android provides Bluetooth API to perform these different operations.
+
+    Scan for other Bluetooth devices
+
+    Get a list of paired devices
+
+    Connect to other devices through service discovery
+
+Android provides BluetoothAdapter class to communicate with Bluetooth. Create an object of this calling by calling the static method getDefaultAdapter(). Its syntax is given below.  
+**Syntax:**    private BluetoothAdapter BA;
+BA = BluetoothAdapter.getDefaultAdapter();
+
+In order to enable the Bluetooth of your device, call the intent with the following Bluetooth constant ACTION_REQUEST_ENABLE. Its syntax is.
+
+Intent turnOn = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+startActivityForResult(turnOn, 0);  
+  This example provides demonstration of BluetoothAdapter class to manipulate Bluetooth and show list of paired devices by the Bluetooth.
+
+To experiment with this example , you need to run this on an actual device.
+  
 
   
   **Upcoming programs**  
@@ -64,3 +87,10 @@ Fragments are the best way to work with large devices and applications that has 
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/screen3%20.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Audio/screens/screen4.png)
 
+
+
+**Understanding Bluetooth and its features **  
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Bluetooth/screens/screenb1.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Bluetooth/screens/screenb2.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Bluetooth/screens/screenb3.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Bluetooth/screens/screenb4.png)
