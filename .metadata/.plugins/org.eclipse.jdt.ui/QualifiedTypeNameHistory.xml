@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.graphics.Color"/>
-<fullyQualifiedTypeName name="dev.ash.programaticgridview.MainActivity"/>
 <fullyQualifiedTypeName name="android.webkit.WebView"/>
 <fullyQualifiedTypeName name="android.view.View"/>
 <fullyQualifiedTypeName name="android.webkit.WebViewClient"/>
@@ -20,7 +18,6 @@
 <fullyQualifiedTypeName name="org.xmlpull.v1.XmlPullParser"/>
 <fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="dev.ash.rssfeeddownloader.ParseApplications"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="dev.ash.rssfeeddownloader.Applications"/>
 <fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
 <fullyQualifiedTypeName name="dev.ash.rssfeeddownloader.MainActivity"/>
@@ -53,11 +50,14 @@
 <fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
 <fullyQualifiedTypeName name="com.loopj.android.http.AsyncHttpResponseHandler"/>
-<fullyQualifiedTypeName name="dev.ashu.movielist.ui.CustomAdapter"/>
-<fullyQualifiedTypeName name="dev.ashu.movielist.MainActivity"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="dev.ashu.movielist.model.movie"/>
-<fullyQualifiedTypeName name="dev.ashu.movielist.model.moviesReciever"/>
 <fullyQualifiedTypeName name="android.renderscript.Type"/>
 <fullyQualifiedTypeName name="dev.ashu.movielist.model.movieResponse"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.ui.CustomAdapter"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.MainActivity"/>
+<fullyQualifiedTypeName name="com.google.gson.JsonSyntaxException"/>
+<fullyQualifiedTypeName name="dev.ashu.movielist.model.moviesReciever"/>
+<fullyQualifiedTypeName name="android.os.Environment"/>
 </qualifiedTypeNameHistroy>
