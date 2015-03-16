@@ -92,6 +92,23 @@ Note that, in order for your Activity to access the Internet and load web pages 
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/webview.png)
 ![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/Screens/1webview.png)
 
+**Finding your location based on gps co-ordinates using geo-coder class**  
+This simple program with the repository name android location has the ability to show you the current device location name.
+
+**Simple Steps to work with**  
+1.Add the proper permissions in manifest  
+2.Import google play service lib from extra's in your sdk  
+3.Write the method findlocation() as demonstrated in the repository and implement LocationListener to the class.  
+4.Use auto implemented stubs method called onlocationchanged() to call the toast or printing the co-ordinates in textview etc.
+5.call the method findlocation() in your oncreate()   
+5.TADA your program is ready to show your devices current location    
+
+Simple and efficient to have fun arround  
+
+**To find the device location**  
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/AndroidLocation/screens/screen%201.png)
+![Screen](https://github.com/ashokslsk/AndroidBeginners/blob/master/AndroidLocation/screens/screen%202.png)
+
 
   
   **Upcoming programs**  
